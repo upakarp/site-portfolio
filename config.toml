@@ -1,4 +1,4 @@
-baseURL = "http://upakarp.github.io/"
+baseURL = "https://upakarp.github.io"
 languageCode = "en-us"
 title = "Upakar Paudel"
 theme = "hugo-uilite"
