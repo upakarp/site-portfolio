@@ -1,0 +1,28 @@
+{{ $services := .Site.Data.services }}
+
+<section class="blue" id="services">
+  <h2 class="heading">{{ $services.title }}</h2>
+
+  <div class="row justify-content-md-center text-center">
+
+    {{ range $index, $element := $services.services }}
+
+    <div class="col-12 col-lg-6 col-md-6 mb-3">
+      <div class="card p-1">
+<!--        <img src={{.Site.BaseURL}}images/{{ $element.displayPic }}/>-->
+<!--        <i class="mt-3  fa fa-{{ $element.icon }} fa-3x"></i>-->
+<!--        <h5 class="mt-4">{{ $element.title }}</h5>-->
+<!--        <p class="text-muted">{{ $element.description }}</p>-->
+        <div class="container">
+        <img src={{.Site.BaseURL}}images/{{ $element.displayPic }} alt="Avatar" class="image" style="width:100%">
+              <a style="display:block" href={{ $element.link }} target="_blank">
+                <div class="middle">
+                <p>{{ $element.description }}</p>
+                </div>
+            </a>
+        </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</section>

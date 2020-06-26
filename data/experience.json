@@ -1,0 +1,54 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod": "May 2020 - Present",
+			"company": "Graduate Research Assistant, Colorado State University",
+			"description": [
+				{
+					"desc": "Working on modeling access control policy using metagraph for IoT scenario."
+				},
+				{
+					"desc" : "Working on enriching IoT behavioral profile through MUD(Manufacturer Usage Description)"
+				}
+			]
+		},
+		{
+			"timeperiod" : "Aug 2019 - May 2020",
+			"company" : "Graduate Teaching Assistant, Colorado State University",
+			"description" : [
+				{
+					"desc" : "Gave recitation to class of 18 students on discrete mathematics"
+				},
+				{
+					"desc" : "Gave demo on jack the ripper and designed assignment on SQL injection for class of more than 100 students"
+				},
+				{
+					"desc" : "Grading, helping students on programming and written assignments, holding office hours"
+				}
+			]
+		},
+		{
+			"timeperiod" : "2018",
+			"company" : "Software Engineer",
+			"description" : [
+				{
+					"desc" : "Delivered travel blog and other websites using Wordpress/Bootstrap"
+				},
+				{
+					"desc" : "Worked on developing fully-fledged Content Management System using Python(Django) and Javascript"
+				},
+				{
+					"desc" : "Delivered a prototyping tool to delay and schedule oncoming message to background using Django Celery and Redis"
+				},
+				{
+					"desc" : "Delivered a tool to predict heart disease accuracy using K-Nearest Neighbor and Random Forest algorithm"
+				},
+				{
+					"desc" : "Also worked on managing domains and writing Rest APIs"
+				}
+			]
+		}
+
+	]
+}

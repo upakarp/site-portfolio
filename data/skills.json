@@ -1,0 +1,36 @@
+{
+	"title": "Skills",
+	"skills": {
+		"programming": {
+			"Python": "90",
+			"Javascript": "80",
+			"C/C++": "65",
+			"Bash": "97"
+		},
+		"frameworkQueryLanguage" : {
+			"Django": "80",
+			"WordPress": "70",
+			"Bootstrap": "70",
+			"MySQL" : "75",
+			"PostgreSQL" : "75"
+		},
+		"versionControlOs" : {
+			"Git" : "80",
+			"Linux" : "80",
+			"Windows" : "70"
+		},
+		"toolsTech": {
+			"JSON" : "75",
+			"REST API" : "75"
+		},
+		"methodologies" : {
+			"Agile" : "75",
+			"Scrum" : "75",
+			"Software Development Life Cycle" : "75",
+			"Object Oriented Paradigm" : "75",
+			"Design Patterns" : "75",
+			"Model View Controller" : "75"
+
+		}
+	}
+}
