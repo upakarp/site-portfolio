@@ -3,9 +3,10 @@
 	"skills": {
 		"programming": {
 			"Python": "90",
-			"Javascript": "80",
-			"C/C++": "65",
-			"Bash": "97"
+			"Javascript": "60",
+			"Java": "70",
+			"Bash": "70",
+			"HTML/CSS" : "75"
 		},
 		"frameworkQueryLanguage" : {
 			"Django": "80",
@@ -19,17 +20,18 @@
 			"Linux" : "80",
 			"Windows" : "70"
 		},
-		"toolsTech": {
-			"JSON" : "75",
-			"REST API" : "75"
-		},
 		"methodologies" : {
+			"Serverless": "70",
 			"Agile" : "75",
-			"Scrum" : "75",
+			"Scrum" : "65",
 			"Software Development Life Cycle" : "75",
 			"Object Oriented Paradigm" : "75",
-			"Design Patterns" : "75",
-			"Model View Controller" : "75"
+			"Design Patterns" : "65",
+			"Model View Controller" : "75",
+			"Object Oriented Programming" : "80",
+			"Continuous Integration / Continuous Delivery" : "60",
+			"Security Testing" : "80",
+			"RESTful API" : "70"
 
 		}
 	}

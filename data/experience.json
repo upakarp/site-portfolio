@@ -3,19 +3,16 @@
 	"experience" : [
 		{
 			"timeperiod": "May 2020 - Present",
-			"company": "Graduate Research Assistant, Colorado State University",
+			"company": "Security Analyst, IoT Lab at Colorado State University",
 			"description": [
 				{
-					"desc": "Currently working on profiling IoT device behavior based on vendor materials (overview pages, marketing pages, technical specification pages, manuals etc)"
+					"desc": "Automated security analysis of 50 IoT applications using security tools to pinpoint security and design issues"
 				},
 				{
-					"desc" : "Automated the vendor material extraction and enumeration process"
+					"desc" : "Derived hidden device functionality of 11 IoT devices from vendor materials (overview page, technical specification page, manuals) for proactive security solution using Python"
 				},
 				{
-					"desc" : "Currently working with Natural Language Processing(NLP) algorithms to identify context clues from vendor materials"		
-				},
-				{
-					"desc" : "Worked with metagraph, access control policies and MUD (Manufacturer Usage Description)"
+					"desc" : "Working with state-of-art Natural Language Processing algorithms to detect context in which various terms are mentioned in vendor materials and to refine functionality derivation process"		
 				}
 			]
 		},
@@ -24,34 +21,37 @@
 			"company" : "Graduate Teaching Assistant, Colorado State University",
 			"description" : [
 				{
-					"desc" : "Gave recitation to class of 18 students on discrete mathematics"
+					"desc" : "Conducted Recitation for class of 18 students on Discrete Structure"
 				},
 				{
-					"desc" : "Gave demo on jack the ripper and designed assignment on SQL injection for class of more than 100 students"
+					"desc" : "Designed hands on assignment on SQL Injection and demo on Jack the Ripper for class of 100 Students (System Security)"
 				},
 				{
-					"desc" : "Grading, helping students on programming and written assignments, holding office hours"
+					"desc" : "Other responsibilities include grading, helping students on programming and written assignments, holding office hours "
+				}
+			]
+		},
+		{
+			"timeperiod" : "Oct 2018 - Dec 2018",
+			"company" : "Software Developer, Utsaha Advert",
+			"description" : [
+				{
+					"desc" : " Involved in all phases of Software Development Life Cycle from understandingrequirement to deployment of a Wordpress based travel blog"
 				}
 			]
 		},
 		{
 			"timeperiod" : "2018",
-			"company" : "Software Engineer",
+			"company" : "Software Developer, Freelancer",
 			"description" : [
 				{
-					"desc" : "Delivered travel blog and other websites using Wordpress/Bootstrap"
+					"desc" : "Implemented a full-fledged Content Management System based on Django and Javascript"
 				},
 				{
-					"desc" : "Worked on developing fully-fledged Content Management System using Python(Django) and Javascript"
-				},
+					"desc" : "Developed an asynchronous backend using Django Celery to queue the birthday message into background and send them at midnight"
+				}, 
 				{
-					"desc" : "Delivered a prototyping tool to delay and schedule oncoming message to background using Django Celery and Redis"
-				},
-				{
-					"desc" : "Delivered a tool to predict heart disease accuracy using K-Nearest Neighbor and Random Forest algorithm"
-				},
-				{
-					"desc" : "Also worked on managing domains and writing Rest APIs"
+					"desc" : "Developed a script to implement the K Nearest Neighbor and Random Forest algorithms on a heart disease dataset, resulting in more than 80% accuracy"
 				}
 			]
 		}
