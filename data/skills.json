@@ -20,6 +20,10 @@
 			"Linux" : "80",
 			"Windows" : "70"
 		},
+		"toolsTech":{
+			"AWS": "65",
+			"Security Tools": "70"
+		},
 		"methodologies" : {
 			"Serverless": "70",
 			"Agile" : "75",
