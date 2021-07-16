@@ -7,16 +7,25 @@
 			"description": [
 				{
 					
-					"desc": "Automated security analysis of 50 IoT applications by using bash on various security tools to pinpoint security and design issues and identified mitigating options"
+					"desc": "Automated static and dynamic security analysis of 300 IoT applications by using bash on various security tools to pinpoint security and design issues based on OWASP and identified mitigating strategies"
 				},
 				{
-					"desc" : "Analyzed cryptography misuse, sensitive data leak, risky dependencies, vulnerabilities, and password strength of IoT applications via testing"
+					"desc" : "Analyzed cryptography misuse, sensitive data leak, risky dependencies, security vulnerabilities, and password strength of IoT applications via vulnerability scan"
 				},
 				{
-					"desc" : "Implemented proactive security solution that minimizes security and privacy risk of IoT ecosystem by deriving hidden functionality from 11 IoT devices using Python"		
+					"desc" : "Implemented proactive security solution to minimize security and privacy risk of IoT ecosystem by deriving hidden functionality from 11 IoT devices using Python"		
 				}, 
 				{
-					"desc" : "Developed workflow to detect security ambiguities in IoT ecosystem by integrating state-of-art Natural Language Processing (NLP) algorithms on security methodology"
+					"desc" : "Researched various attack vectors and developed workflow to detect security vulnerabilities in IoT ecosystem / infrastructure by integrating state-of-art Natural Language Processing (NLP) algorithms on security methodologies"
+				},
+				{
+					"desc" : "Scraped textual and visual data provided by IoT vendors, identified context in which various key terms are mentioned in extracted data and clustered semantically similar data together for efficient device functionality extraction improving accuracy by 20%"
+				},
+				{
+					"desc" : "Performed threat modeling of IoT ecosystem in the context of smart home"
+				},
+				{
+					"desc" : "Devised NIST’s NGAC (Next Generation Access Control) policy based on IoT (embedded) device’s functionalities for smart home environment"
 				}
 			]
 		},
@@ -37,7 +46,7 @@
 		},
 		{
 			"timeperiod" : "2018",
-			"company" : "Software Developer, Freelance",
+			"company" : "Software Engineer, Freelance",
 			"description" : [
 				{
 					"desc" : "Implemented a travel blog that supports blogs, pictures, and advertisements"
@@ -56,6 +65,12 @@
 				}, 
 				{
 					"desc" : "Implemented the feature to effectively display most recent blogs and pictures using double-ended queue"
+				},
+				{
+					"desc" : "Applied machine learning algorithms on heart disease dataset to predict the probability of heart disease, resulting in more than 80% accuracy"
+				},
+				{
+					"desc" : "Delivered wordpress based static websites for local businesses / individual clients"
 				}
 			]
 		}
