@@ -5,70 +5,70 @@
 			"displayPic" : "ludo.png",
 			"icon" : "pencil-ruler",
 			"title" : "Logo Design",
-			"description" : "Ludo : An indoor board game which is a variant of Snake and Ladder. Developed entirely in Java and XML using Android Studio. Was able to minimize application size to only about few hundred KBs and currently have 15 stars and 19 forks in github repo.",
+			"description" : "Ludo : An indoor board game which is a variant of Snake and Ladder. Developed entirely in Java and XML using Android Studio.",
 			"link" : "https://github.com/upakarp/ludo"
 		},
 		{
 			"displayPic" : "zyaala.png",
 			"icon" : "pencil-ruler",
 			"title" : "Logo Design",
-			"description" : "Zyaala : A web based application to outsource daily tasks. Written using Django and Javascript. My role for this project was to implement backend architecture in Django.",
+			"description" : "Zyaala : A web based application to outsource daily tasks. Written using Python (Django) and Javascript.",
 			"link" : "https://github.com/upakarp/jobportal"
 		},
 		{
 			"displayPic" : "taxchain.png",
 			"icon" : "pen-nib",
 			"title" : "Graphics Design",
-			"description" : "TaxChain : A blockchain based tax system to keep transparent tax records. Written using Solidity and Reactjs. Worked on implementing front end using React, writing report and also on presenting the project",
+			"description" : "TaxChain : A blockchain based tax system to keep transparent tax records. Written using Solidity and Reactjs.",
 			"link" : "#"
 		},
 		{
 			"displayPic" : "ontotheroad.png",
 			"icon" : "pen-nib",
 			"title" : "Graphics Design",
-			"description" : "OntoTheRoad : Delivered a travel blog to a client using Wordpress technolgoy. Wrote custom CSS within wordpress to accomodate design requirements.",
+			"description" : "OntoTheRoad : Delivered a travel blog to an individual client. Blog was able to support text, images and advertisements.",
 			"link" : "#"
 		},
 		{
 			"displayPic" : "cms.png",
 			"icon" : "pen-nib",
 			"title" : "Graphics Design",
-			"description" : "Content Management System : A fully fledged content management system which creates a static website completely from user input and requirements. Written in Django and Javascript for the most part. My role was in implementing backend architecture using Django as well as on CSS and JS optimizaiton. ",
+			"description" : "Content Management System : A fully fledged content management system which creates a static website from user input and requirements. Written in Python (Django) and Javascript. ",
 			"link" : "#"
 		},
 		{
 			"displayPic" : "listingDetail.png",
 			"icon" : "pen-nib",
 			"title" : "Graphics Design",
-			"description" : "Listing and Detail : A simple one page android application that cache the data from json placeholder api and display those data from cache in case of no internet on cell. Simply written in Android Studio. ",
+			"description" : "Listing and Detail : Android application to cache the data and display those data from cache in case of no internet on cell. Writtten using Java. ",
 			"link" : "https://github.com/upakarp/Listing-and-Detail"
 		},
 		{
 			"displayPic" : "handwrittenDigit.png",
 			"icon" : "pen-nib",
 			"title" : "Graphics Design",
-			"description" : "Handwritten Digit Recognition : Worked on a group of four to collect dataset for Bangla Digit, Chinese Digit and Nepali Digit. After collecting and preapring the dataset, applied Convolutional Neural Network to predict the accuracy of digits.",
+			"description" : "Handwritten Digit Recognition : Implemented Convolution Neural Network to predict handwritten digit accuracy for Bangla, Chinese and Nepali digits.",
 			"link" : "#"
 		},
 		{
 			"displayPic" : "smsGateway.png",
 			"icon" : "pen-nib",
 			"title" : "Graphics Design",
-			"description" : "SMSGateway : A simple message delaying prototype developed using Python/Django and Javascript. This protoype takes the message from user, delay it in the background and forward the message at selected time.  Used Celery to queue the task and used Redis as a Message Broker.",
+			"description" : "SMSGateway : Tool to queue the message in background and send it at a specififed time. Written using Python (Django), Javascript and Celery.",
 			"link" : "https://github.com/upakarp/SMSGateway"
 		},
 		{
 			"displayPic" : "encMail.png",
 			"icon" : "pen-nib",
 			"title" : "Graphics Design",
-			"description" : "EncMail : A tool that encrypts and sends the email to the recipient. The major focus of this project was to understand various cryptographic algorithms(Ceaser cipher, RSA, AES, DES and others) and have a basic implementation on the form of message transferring tool. ",
+			"description" : "EncMail : A tool that encrypts and sends the email to the recipient. Used various encryption schemes (RSA, AES, 3DES) and also devised simple encryption scheme.",
 			"link" : "https://github.com/upakarp/encmail"
 		},
 		{
 			"displayPic" : "heartDisease.png",
 			"icon" : "pen-nib",
 			"title" : "Graphics Design",
-			"description" : "Heart Disease Predictor : Applied K-Nearest Neighbor and Random Forest algorithm to predict heart disease accuracy. The dataset was obtained from UCI repository pertaining to PC Cleveland Hospital.",
+			"description" : "Heart Disease Predictor : Applied machine learning algorithms on heart disease dataset to predict the probability of heart disease, resulting in more than 80% accuracy",
 			"link" : "https://github.com/upakarp/KNN-RandomForest"
 		}
 	]
